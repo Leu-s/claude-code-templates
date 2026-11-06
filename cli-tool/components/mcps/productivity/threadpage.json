@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "threadpage": {
+      "description": "Search, read and add notes in your ThreadPage project threads, only where you allow. A free account can only add notes to your Inbox.",
+      "type": "http",
+      "url": "https://thread.page/mcp"
+    }
+  }
+}
